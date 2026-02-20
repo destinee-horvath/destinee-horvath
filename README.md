@@ -1,5 +1,15 @@
-rawr
+## About Me
+I am currently a Software Engineering and Physics student at Usyd.
 
-<img src="https://github.com/destinee-horvath/destinee-horvath/blob/main/chipi-chipi-chapa-chapa.gif" width = "498"/>
+## Main Skills
+### Languages
+[![Languages](https://skillicons.dev/icons?i=java,python,c,js,cs)](https://skillicons.dev)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=destinee-horvath&layout=compact&theme=rose_pine)
+### Backend & Web 
+[![Backend](https://skillicons.dev/icons?i=nodejs,react,html,css)](https://skillicons.dev)
+
+### Databases
+[![Databases](https://skillicons.dev/icons?i=postgres,mysql)](https://skillicons.dev)
+
+### DevOps
+[![DevOps](https://skillicons.dev/icons?i=docker,jenkins,git,github,linux)](https://skillicons.dev)
